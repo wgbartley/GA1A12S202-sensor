@@ -1,0 +1,7 @@
+{
+	"name": "GA1A12S202",
+	"author": "Garrett Bartley",
+	"version": "0.0.1",
+	"license": "MIT",
+	"description": "Simple library for GA1A12S202 light/lux sensor"
+}
