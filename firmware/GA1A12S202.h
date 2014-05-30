@@ -1,5 +1,7 @@
 // Adapted from https://learn.adafruit.com/adafruit-ga1a12s202-log-scale-analog-light-sensor/use-it
-#include <math.h> include "application.h"
+#include <math.h>
+#include "application.h"
+
 class GA1A12S202 {
     private:
         int _pin = A0;
